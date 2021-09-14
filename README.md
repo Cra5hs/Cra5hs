@@ -30,5 +30,5 @@ Database design: SQL Server, Postgresql
 
 
 ```
-Donate: **0x843C9034e9cEcCEc85ceCC1B87dB3e260e9ea5eE** (Matic)
+Donate: 0x843C9034e9cEcCEc85ceCC1B87dB3e260e9ea5eE (Matic)
 ```
