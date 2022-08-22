@@ -15,7 +15,7 @@ Now I’m also responsible for developing smart contracts, provide assistance wi
 
 Skills: 
 - Flutter (2 year exp).
-- Android-Native (8 year exp).
+- Java (8 year exp).
 - IOS-Native (6 year exp).
 - C#.NET (8 year exp).
 - Node.js (2 year exp).
