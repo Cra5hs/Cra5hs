@@ -7,7 +7,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Cra5hs-0072b1?style=flat&logo=Telegram&logoColor=white&link=https://t.me/Cr5sh)](https://t.me/Cra5hs) 
 [![Github Badge](https://img.shields.io/badge/-Cra5hs-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Cra5hs/)](https://www.github.com/Cra5hs/)
 
-I’m a software developer for 8+ years and currently focuses on Java development & Blockchain development. 
+I’m a software developer for 8+ years and currently focuses on development & Blockchain development. 
 Working as a full-stack developer. 
 I’ve involved with Blockchain technologies when I did some projects like building EOSIO sister chains, NFT token, DEX, crypto wallet app, smart contract for game, and other kinds on EOSIO. 
 Now I’m also responsible for developing smart contracts, provide assistance with testing, debugging, and deployment for decentralized applications running on EOSIO and related Blockchains.
